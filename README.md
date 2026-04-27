@@ -7,13 +7,16 @@
 | Assignment | Due Date | Topics |
 |------------|----------|--------|
 | [HW1](HW1/) | April 21, 2026 | Stationarity, ACF, detrending, AR/MA/ARMA, forecasting (S&S Ch. 1-3) |
+| [HW2](HW2/) | April 28, 2026 | ARMA identification, AR(2) stationarity, ARCH/GARCH detection (S&S Ch. 3, 5.4) |
 
 ## Setup
 
-Assignments use **R** with the [`astsa`](https://github.com/nickpoison/astsa) package. Install it once:
+Assignments use **R** with the [`astsa`](https://github.com/nickpoison/astsa) and [`tsdl`](https://github.com/FinYang/tsdl) packages. Install them once:
 
 ```r
 install.packages("astsa")
+install.packages("remotes")
+remotes::install_github("FinYang/tsdl")
 ```
 
 ## Submission
