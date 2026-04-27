@@ -1,7 +1,7 @@
 # Homework 2 — ARMA Identification in Practice
 
 **Stat 207, Spring 2026**  
-**Due: April 28, 2026**
+**Due: May 7, 2026**
 
 ---
 
