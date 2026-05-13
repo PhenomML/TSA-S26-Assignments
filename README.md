@@ -8,6 +8,7 @@
 |------------|----------|--------|
 | [HW1](HW1/) | April 21, 2026 | Stationarity, ACF, detrending, AR/MA/ARMA, forecasting (S&S Ch. 1-3) |
 | [HW2](HW2/) | May 7, 2026 | ARMA identification, AR(2) stationarity, ARCH/GARCH detection (S&S Ch. 3, 5.4) |
+| [HW3](HW3/) | May 21, 2026 | Spectral analysis, coherence, EWMA–ARIMA–state-space trinity, Kalman filter and smoother (S&S Ch. 4, 6) |
 
 ## Setup
 
